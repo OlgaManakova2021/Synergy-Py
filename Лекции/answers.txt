@@ -1,0 +1,45 @@
+#a = int(input("Введи нечетный номер дома"))
+#print((a*2)-1)
+
+
+
+#a = input("Введи название улицы")
+#b = int(input("Введи номер дома"))
+#c = int(input("Введи номер квартиры"))
+#print(f"Я живу на улице {a} дом {b} квартира {c}")
+
+
+
+
+#a = int(input("Введи температуру"))
+
+#if a < 20:
+    #print("Нагревать")
+#elif 20 < a < 27:
+    #print("ничего не делать")
+#else:
+#    print("охлаждать")
+
+
+
+
+# n = int(input("Введи число"))
+# while 0 < n:
+#     print("+" * n)
+#     n -= 1
+
+
+
+# my_arr = []
+# n = int(input("Введи длину массива"))
+# for i in range(0, n, 1):
+#     my_arr.append(i+2)
+# 
+# print(f"Полученный массив  {my_arr}")
+# 
+# ind_1 = int(input("Введи первый индекс"))
+# ind_2 = int(input("Введи второй индекс"))
+# 
+# summa = my_arr[ind_1] + my_arr[ind_2]
+# 
+# print(f"Сумма равна =  {summa}")
